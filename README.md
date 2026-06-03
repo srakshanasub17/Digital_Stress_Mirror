@@ -2,7 +2,9 @@
        Digital Stress Mirror - mobile usage behavior reflection system
 ---
 ### Project Overview ###
+<small>
 Digital Stress Mirror is a mobile usage behavior reflection system that analyzes screen time, app-switching frequency, and continuous usage patterns to generate a reflection score.
+       <small/>
 ---
 #### PROBLEM STATEMENT ###
 <small>
