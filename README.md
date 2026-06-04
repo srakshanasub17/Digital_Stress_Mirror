@@ -22,6 +22,7 @@ Technologies Used Frontend: HTML,CSS,JavaScript Backend: java DataBase:MySQL
 ###  user& module identification
 **user:**
        smartphone user
+---
 ** Modules:**
 - User Management
 - Screen Time Monitoring
