@@ -12,6 +12,13 @@ Digital Stress Mirror is a mobile usage behavior reflection system that analyzes
 Technologies Used Frontend: HTML,CSS,JavaScript Backend: java DataBase:MySQL
 
 ---
+## Requirement Gathering
+- Monitor screen time
+- Track app switching
+- Calculate reflection score
+- Generate daily reports
+- Generate weekly reports
+- --
 ### PROJECT OBJECTIVE
 - Monitor screen time
 - Track app switching
