@@ -26,7 +26,7 @@ Technologies Used Frontend: HTML,CSS,JavaScript Backend: java DataBase:MySQL
 - Generate daily reports
 - Generate weekly reports
 ---
-###  user& module identification
+###  user and module identification
 **user:**
 <small>
        smartphone user
