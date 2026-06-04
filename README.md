@@ -19,17 +19,16 @@ Technologies Used Frontend: HTML,CSS,JavaScript Backend: java DataBase:MySQL
 - Generate daily reports
 - Generate weekly reports
 ---
-### Features
-- Screen time monitoring
-- App switching analysis
-- Reflection score generation
-- Usage reports
-- Stress awareness feedback
----
-### Future Enhancements
-- Emotion detection
-- Parent notification system
-- Cognitive overload detection
-- Environment adaptation
+###  user& module identification
+**user:**
+       smartphone user
+** Modules:**
+- User Management
+- Screen Time Monitoring
+- App Usage Tracking
+- Reflection Score
+- Report Generation
+
+
         
 
