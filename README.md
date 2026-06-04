@@ -21,7 +21,9 @@ Technologies Used Frontend: HTML,CSS,JavaScript Backend: java DataBase:MySQL
 ---
 ###  user& module identification
 **user:**
+<small>
        smartphone user
+ </small>
 ---
 ** Modules:**
 - User Management
