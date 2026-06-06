@@ -39,6 +39,12 @@ Technologies Used Frontend: HTML,CSS,JavaScript Backend: java DataBase:MySQL
 - App Usage Tracking
 - Reflection Score
 - Report Generation
+- --
+## Use Case Diagram
+
+The Use Case Diagram illustrates the interactions between the user and the Digital Stress Mirror system. It shows the main functionalities such as monitoring screen time, tracking app switching, calculating reflection scores, generating reports, and viewing usage insights.
+
+![Use Case Diagram]("C:\Users\Hxtreme\Pictures\case diagram.jpeg")
 
 
         
