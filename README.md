@@ -45,6 +45,18 @@ Technologies Used Frontend: HTML,CSS,JavaScript Backend: java DataBase:MySQL
 The Use Case Diagram illustrates the interactions between the user and the Digital Stress Mirror system. It shows the main functionalities such as monitoring screen time, tracking app switching, calculating reflection scores, generating reports, and viewing usage insights.
        
 ---
+## Database Requirement Analysis
+
+The Digital Stress Mirror project requires a database to store user information, device usage details, stress assessment results, and generated reports.
+
+### Required Tables
+- Users
+- Device_Usage
+- Stress_Assessment
+- Reports
+
+The database helps in managing user data, tracking smartphone usage patterns, calculating stress levels, and generating reports efficiently.
+---
 ## ER Diagram
 
 The ER Diagram represents the database structure of the Digital Stress Mirror project. It includes four main entities:
