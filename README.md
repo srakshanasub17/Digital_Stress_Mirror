@@ -66,8 +66,9 @@ The ER Diagram represents the database structure of the Digital Stress Mirror pr
 - Device Usage – Stores screen time and app usage data.
 - Stress Assessment – Stores stress scores and levels.
 - Reports – Stores generated reports.
-
+<small>
 The relationships between these entities help track user behavior and generate stress analysis reports.
+
 ---
 ## Database Schema Creation
 
