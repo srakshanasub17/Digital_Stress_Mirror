@@ -68,6 +68,10 @@ The ER Diagram represents the database structure of the Digital Stress Mirror pr
 - Reports – Stores generated reports.
 
 The relationships between these entities help track user behavior and generate stress analysis reports.
+---
+## Database Schema Creation
+
+The database schema for the Digital Stress Mirror project defines the structure of the database and the relationships between tables. It includes tables for storing user information, device usage data, stress assessment results, and generated reports. The schema ensures organized data storage and supports efficient stress analysis and report generation.
 
 
 
