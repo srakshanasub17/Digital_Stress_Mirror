@@ -54,7 +54,7 @@ The Digital Stress Mirror project requires a database to store user information,
 - Device_Usage
 - Stress_Assessment
 - Reports
-
+<small>
 The database helps in managing user data, tracking smartphone usage patterns, calculating stress levels, and generating reports efficiently.
 ---
 ## ER Diagram
