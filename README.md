@@ -73,6 +73,15 @@ The relationships between these entities help track user behavior and generate s
 ## Database Schema Creation
 
 The database schema for the Digital Stress Mirror project defines the structure of the database and the relationships between tables. It includes tables for storing user information, device usage data, stress assessment results, and generated reports. The schema ensures organized data storage and supports efficient stress analysis and report generation.
+---
+## UI Wireframe Design
+
+- Designed the basic user interface layout for the Digital Stress Mirror application.
+- Created wireframes for Home, Usage Monitoring, Stress Analysis, and Reports screens.
+- Included navigation elements, buttons, and user interaction components.
+- Added a usage breakdown graph to visualize smartphone usage patterns.
+- Defined the placement of stress scores, usage statistics, and report sections.
+- Used the wireframe to plan the application structure before development.
 
 
 
