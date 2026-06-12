@@ -76,13 +76,20 @@ The database schema for the Digital Stress Mirror project defines the structure 
        
 ---
 ## UI Wireframe Design
-
+<small>
 - Designed the basic user interface layout for the Digital Stress Mirror application.
 - Created wireframes for Home, Usage Monitoring, Stress Analysis, and Reports screens.
 - Included navigation elements, buttons, and user interaction components.
 - Added a usage breakdown graph to visualize smartphone usage patterns.
 - Defined the placement of stress scores, usage statistics, and report sections.
 - Used the wireframe to plan the application structure before development.
+---
+ ## Navigation and Form Design
+- Designed the navigation flow for the Digital Stress Mirror application.
+- Created UI prototype screens for Login, Dashboard, Usage Monitoring, Stress Analysis, Reports, Profile, Settings, and Forgot Password.
+- Designed user input forms for login, password recovery, and profile management.
+- Connected screens using navigation flow arrows to demonstrate user interaction and screen transitions.
+- The prototype provides a clear visualization of the application's structure and user journey.
 
 
 
