@@ -84,6 +84,13 @@ The database schema for the Digital Stress Mirror project defines the structure 
 - Defined the placement of stress scores, usage statistics, and report sections.
 - Used the wireframe to plan the application structure before development.
        
+## Login and Dashboard UI Design
+<small>
+- Designed the Login and Dashboard screens for the Digital Stress Mirror application.
+- Created a simple and user-friendly interface for easy navigation.
+- Included stress score, screen-time usage, and activity monitoring features.
+- Focused on providing a clear and intuitive user experience.
+       
 ---
  ## Navigation and Form Design
 - Designed the navigation flow for the Digital Stress Mirror application.
