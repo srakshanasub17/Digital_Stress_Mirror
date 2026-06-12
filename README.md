@@ -83,6 +83,7 @@ The database schema for the Digital Stress Mirror project defines the structure 
 - Added a usage breakdown graph to visualize smartphone usage patterns.
 - Defined the placement of stress scores, usage statistics, and report sections.
 - Used the wireframe to plan the application structure before development.
+       
 ---
  ## Navigation and Form Design
 - Designed the navigation flow for the Digital Stress Mirror application.
